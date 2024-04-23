@@ -5,4 +5,4 @@
 4. Then, open Simply_Feed folder
 5. Open Simply_Feed.exe
 
-=============================THANK YOU FOR VISITING OUR PROJECT===============================
+=============================THANK YOU=============================
